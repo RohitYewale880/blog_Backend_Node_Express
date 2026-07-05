@@ -5,7 +5,7 @@ const BolgRoutes = require('./routes/routes_blog');
 
 const app = express();
 app.use(cors({
-    origin : ['https://blog-frontend-alpha-liard.vercel.app/', 'http://localhost:4200'],
+    origin : ['https://blog-frontend-hqwt.vercel.app/', 'http://localhost:4200'],
     methods : ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
 }));
 app.use(express.json())
