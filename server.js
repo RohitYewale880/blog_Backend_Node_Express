@@ -8,6 +8,8 @@ const app = express();
 app.use(cors({
   origin: [
     'https://blog-frontend-hqwt.vercel.app',
+    'https://blog-crud-using-http-module-y2rx.vercel.app',
+    'https://rxjs-pink.vercel.app/Blog',
     'http://localhost:4200'
   ],
   methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
