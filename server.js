@@ -10,7 +10,7 @@ app.use(cors({
     'https://blog-frontend-hqwt.vercel.app',
     'https://blog-crud-using-http-module-y2rx.vercel.app',
     'https://rxjs-6hew.vercel.app',
-    'https://blog-rx-js-taks.vercel.app/',
+    'https://blog-rx-js-taks.vercel.app',
     'http://localhost:4200'
   ],
   methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
