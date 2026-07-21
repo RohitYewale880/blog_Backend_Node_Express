@@ -12,6 +12,7 @@ app.use(cors({
     'https://rxjs-6hew.vercel.app',
     'https://blog-rx-js-taks.vercel.app',
     'https://rxjs2-two.vercel.app',
+    'https://http-blogs.vercel.app',
     'http://localhost:4200'
   ],
   methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
