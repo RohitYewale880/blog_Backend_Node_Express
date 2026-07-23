@@ -14,6 +14,7 @@ app.use(cors({
     'https://rxjs2-two.vercel.app',
     'https://http-blogs.vercel.app',
     'https://blog-crud-using-http-module-two-delta.vercel.app',
+    'https://blog-rx-js-taks2.vercel.app',
     'http://localhost:4200'
   ],
   methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
